@@ -1,0 +1,34 @@
+{
+  "id": "colorbrewer_rdylgn_11",
+  "name": "ColorBrewer RdYlGn",
+  "category": "diverging",
+  "tags": [
+    "colorbrewer",
+    "diverging",
+    "scientific"
+  ],
+  "source": {
+    "name": "ColorBrewer (Cynthia Brewer)",
+    "license": "Apache-2.0",
+    "url": "https://colorbrewer2.org/"
+  },
+  "colors": [
+    "#a50026",
+    "#d73027",
+    "#f46d43",
+    "#fdae61",
+    "#fee08b",
+    "#ffffbf",
+    "#d9ef8b",
+    "#a6d96a",
+    "#66bd63",
+    "#1a9850",
+    "#006837"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 10,
+    "support": 5
+  },
+  "note": "ColorBrewer 补全。"
+}

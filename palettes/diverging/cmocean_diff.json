@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_diff",
+  "name": "cmocean diff",
+  "category": "diverging",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "diverging"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#082340",
+    "#244f6b",
+    "#5a7487",
+    "#8d9ca7",
+    "#c6cacf",
+    "#f6f1f0",
+    "#cec7b8",
+    "#a3987b",
+    "#7a6d41",
+    "#4b471c",
+    "#1c2207"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 10,
+    "support": 5
+  },
+  "note": "海洋学色图，通用性好。"
+}

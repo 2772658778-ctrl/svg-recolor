@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_ice",
+  "name": "cmocean ice",
+  "category": "sequential",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "sequential"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#040613",
+    "#1c1c38",
+    "#302f5f",
+    "#3d4389",
+    "#3e5ea9",
+    "#427bb7",
+    "#5296c1",
+    "#6ab0cb",
+    "#8ccbd6",
+    "#bce4e7",
+    "#eafdfd"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "海洋学色图，通用性好。"
+}

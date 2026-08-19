@@ -1,0 +1,10 @@
+{
+  "id": "tokyo_night",
+  "name": "Tokyo Night (Storm)",
+  "category": "ui_theme",
+  "tags": ["ui", "modern", "tokyonight"],
+  "source": {"name": "Tokyo Night (folke)", "license": "MIT", "url": "https://github.com/folke/tokyonight.nvim"},
+  "colors": ["#7aa2f7", "#bb9af7", "#f7768e", "#9ece6a", "#e0af68", "#73daca", "#7dcfff", "#c0caf5", "#414868"],
+  "roles": {"primary": 0, "accent": 1, "support": 7},
+  "note": "深蓝夜景风格。"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "magma_10",
+  "name": "Magma 顺序色图（10 级）",
+  "category": "sequential",
+  "tags": ["perceptually-uniform", "sequential", "matplotlib"],
+  "source": {"name": "Matplotlib magma", "license": "BSD-3-Clause", "url": "https://matplotlib.org/stable/users/explain/colors/colormaps.html"},
+  "colors": ["#000004", "#180f3e", "#451077", "#721f81", "#9f2f7f", "#cd4071", "#f1605d", "#fd9668", "#feca8d", "#fcfdbf"],
+  "roles": {"primary": 3, "accent": 8, "support": 1},
+  "note": "黑紫到米黄。"
+}

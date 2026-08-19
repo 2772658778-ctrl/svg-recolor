@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_turbid",
+  "name": "cmocean turbid",
+  "category": "sequential",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "sequential"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#e9f6ab",
+    "#dbd886",
+    "#cfbc66",
+    "#c4a14d",
+    "#b58740",
+    "#a1703b",
+    "#8a5e3a",
+    "#714e37",
+    "#563e30",
+    "#3b2f27",
+    "#221f1b"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "海洋学色图，通用性好。"
+}

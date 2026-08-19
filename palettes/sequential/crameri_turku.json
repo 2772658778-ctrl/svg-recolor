@@ -1,0 +1,35 @@
+{
+  "id": "crameri_turku",
+  "name": "Crameri turku",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#000000",
+    "#22221f",
+    "#3c3c32",
+    "#565640",
+    "#71704c",
+    "#938c5b",
+    "#b9a06e",
+    "#d8a782",
+    "#efb1a1",
+    "#fdcbc7",
+    "#ffe6e6"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}

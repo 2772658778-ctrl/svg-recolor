@@ -1,0 +1,35 @@
+{
+  "id": "tailwind_rose",
+  "name": "Tailwind rose",
+  "category": "ui_theme",
+  "tags": [
+    "tailwind",
+    "ramp",
+    "rose",
+    "ui_theme"
+  ],
+  "source": {
+    "name": "Tailwind CSS v3.4",
+    "license": "MIT",
+    "url": "https://tailwindcss.com/docs/customizing-colors"
+  },
+  "colors": [
+    "#fff1f2",
+    "#ffe4e6",
+    "#fecdd3",
+    "#fda4af",
+    "#fb7185",
+    "#f43f5e",
+    "#e11d48",
+    "#be123c",
+    "#9f1239",
+    "#881337",
+    "#4c0519"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "单色相 50-950 色阶。"
+}

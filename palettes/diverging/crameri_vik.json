@@ -1,0 +1,35 @@
+{
+  "id": "crameri_vik",
+  "name": "Crameri vik",
+  "category": "diverging",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "diverging"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#001261",
+    "#023a7b",
+    "#116496",
+    "#5496b7",
+    "#a7c9da",
+    "#ece5e0",
+    "#e1b8a0",
+    "#cd8961",
+    "#b75a26",
+    "#852206",
+    "#590008"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 10,
+    "support": 5
+  },
+  "note": "科研色图，CVD 友好。"
+}

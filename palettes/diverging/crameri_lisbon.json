@@ -1,0 +1,35 @@
+{
+  "id": "crameri_lisbon",
+  "name": "Crameri lisbon",
+  "category": "diverging",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "diverging"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#e6e5ff",
+    "#a0b3d6",
+    "#6083ae",
+    "#2a537d",
+    "#132a42",
+    "#171919",
+    "#383522",
+    "#66603d",
+    "#9a9160",
+    "#cfc998",
+    "#ffffd9"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 10,
+    "support": 5
+  },
+  "note": "科研色图，CVD 友好。"
+}

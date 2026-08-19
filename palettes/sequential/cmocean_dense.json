@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_dense",
+  "name": "cmocean dense",
+  "category": "sequential",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "sequential"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#e6f1f1",
+    "#badbe5",
+    "#96c5e2",
+    "#7bade4",
+    "#7390e3",
+    "#7871d5",
+    "#7954bb",
+    "#743b99",
+    "#682471",
+    "#531546",
+    "#360e24"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "海洋学色图，通用性好。"
+}

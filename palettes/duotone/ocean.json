@@ -1,0 +1,10 @@
+{
+  "id": "ocean",
+  "name": "海洋（Sky → Deep Blue）",
+  "category": "duotone",
+  "tags": ["duotone", "scientific", "cool"],
+  "source": {"name": "自研（Tailwind 色阶取材）", "license": "MIT", "url": ""},
+  "colors": ["#0ea5e9", "#1e3a8a", "#bae6fd"],
+  "roles": {"primary": 0, "accent": 1, "support": 2},
+  "note": "天空蓝主色 + 深蓝强调。"
+}

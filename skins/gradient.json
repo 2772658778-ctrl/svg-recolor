@@ -1,0 +1,13 @@
+{
+  "id": "gradient",
+  "name": "渐变描边",
+  "category": "style",
+  "apply": {
+    "roles": {"primary": "primary", "accent": "accent"},
+    "opacity": {},
+    "background": null,
+    "gradient": true,
+    "stroke_width": null
+  },
+  "note": "主元素描边用 主色→强调色 线性渐变，强调元素保留纯色。"
+}

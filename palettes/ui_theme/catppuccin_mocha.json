@@ -1,0 +1,10 @@
+{
+  "id": "catppuccin_mocha",
+  "name": "Catppuccin Mocha",
+  "category": "ui_theme",
+  "tags": ["ui", "modern", "dark", "catppuccin"],
+  "source": {"name": "Catppuccin", "license": "MIT", "url": "https://github.com/catppuccin/palette"},
+  "colors": ["#89b4fa", "#cba6f7", "#f5c2e7", "#f38ba8", "#fab387", "#f9e2af", "#a6e3a1", "#94e2d5", "#cdd6f4", "#6c7086", "#1e1e2e"],
+  "roles": {"primary": 0, "accent": 1, "support": 8},
+  "note": "深色主题；亮色线条适合深底图标。"
+}

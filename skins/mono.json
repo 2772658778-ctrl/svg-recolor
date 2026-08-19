@@ -1,0 +1,13 @@
+{
+  "id": "mono",
+  "name": "单色",
+  "category": "style",
+  "apply": {
+    "roles": {"primary": "primary"},
+    "opacity": {},
+    "background": null,
+    "gradient": false,
+    "stroke_width": null
+  },
+  "note": "全部线条 = 主色，最朴素。"
+}

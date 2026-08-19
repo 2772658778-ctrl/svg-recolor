@@ -1,0 +1,35 @@
+{
+  "id": "tailwind_neutral",
+  "name": "Tailwind neutral",
+  "category": "neutral",
+  "tags": [
+    "tailwind",
+    "ramp",
+    "neutral",
+    "neutral"
+  ],
+  "source": {
+    "name": "Tailwind CSS v3.4",
+    "license": "MIT",
+    "url": "https://tailwindcss.com/docs/customizing-colors"
+  },
+  "colors": [
+    "#fafafa",
+    "#f5f5f5",
+    "#e5e5e5",
+    "#d4d4d4",
+    "#a3a3a3",
+    "#737373",
+    "#525252",
+    "#404040",
+    "#262626",
+    "#171717",
+    "#0a0a0a"
+  ],
+  "roles": {
+    "primary": 8,
+    "accent": 5,
+    "support": 2
+  },
+  "note": "单色相 50-950 色阶。"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "crameri_oleron",
+  "name": "Crameri oleron",
+  "category": "diverging",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "diverging"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#1a2659",
+    "#424f82",
+    "#6c79ac",
+    "#99a6d9",
+    "#c4d1f6",
+    "#1a4c00",
+    "#535e02",
+    "#8c7c31",
+    "#c5a46c",
+    "#f3d4ab",
+    "#fdfde6"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 10,
+    "support": 5
+  },
+  "note": "科研色图，CVD 友好。"
+}

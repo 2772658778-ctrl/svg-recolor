@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_phase",
+  "name": "cmocean phase",
+  "category": "cyclic",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "cyclic"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#a8780d",
+    "#c95d38",
+    "#dc3c6d",
+    "#d926b9",
+    "#b64bed",
+    "#7d73f0",
+    "#3b8ccb",
+    "#179598",
+    "#199a5e",
+    "#728f14",
+    "#a8780d"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 3,
+    "support": 5
+  },
+  "note": "海洋学色图，通用性好。"
+}

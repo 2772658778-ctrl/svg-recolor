@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_thermal",
+  "name": "cmocean thermal",
+  "category": "sequential",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "sequential"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#042333",
+    "#10326c",
+    "#40349f",
+    "#674396",
+    "#8b538d",
+    "#b15f82",
+    "#d66c6c",
+    "#f2814e",
+    "#fca63c",
+    "#f7d045",
+    "#e8fa5b"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "海洋学色图，通用性好。"
+}

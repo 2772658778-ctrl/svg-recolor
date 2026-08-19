@@ -1,0 +1,31 @@
+{
+  "id": "colorbrewer_accent",
+  "name": "ColorBrewer Accent",
+  "category": "categorical",
+  "tags": [
+    "colorbrewer",
+    "categorical",
+    "scientific"
+  ],
+  "source": {
+    "name": "ColorBrewer (Cynthia Brewer)",
+    "license": "Apache-2.0",
+    "url": "https://colorbrewer2.org/"
+  },
+  "colors": [
+    "#7fc97f",
+    "#beaed4",
+    "#fdc086",
+    "#ffff99",
+    "#386cb0",
+    "#f0027f",
+    "#bf5b17",
+    "#666666"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 1,
+    "support": 2
+  },
+  "note": "ColorBrewer 补全。"
+}

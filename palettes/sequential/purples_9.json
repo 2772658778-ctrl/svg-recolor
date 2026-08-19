@@ -1,0 +1,10 @@
+{
+  "id": "purples_9",
+  "name": "ColorBrewer Purples（9 级）",
+  "category": "sequential",
+  "tags": ["colorbrewer", "sequential", "scientific"],
+  "source": {"name": "ColorBrewer (Cynthia Brewer)", "license": "Apache-2.0", "url": "https://colorbrewer2.org/"},
+  "colors": ["#fcfbfd", "#efedf5", "#dadaeb", "#bcbddc", "#9e9ac8", "#807dba", "#6a51a3", "#54278f", "#3f007d"],
+  "roles": {"primary": 6, "accent": 8, "support": 2},
+  "note": "单色紫顺序。"
+}

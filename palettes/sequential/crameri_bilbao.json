@@ -1,0 +1,35 @@
+{
+  "id": "crameri_bilbao",
+  "name": "Crameri bilbao",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#4c0001",
+    "#712227",
+    "#8e3f46",
+    "#9e5a55",
+    "#a46f5a",
+    "#a9825e",
+    "#ae9663",
+    "#b9ae80",
+    "#c4c0ac",
+    "#d6d5d3",
+    "#ffffff"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}

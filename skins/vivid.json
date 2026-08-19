@@ -1,0 +1,13 @@
+{
+  "id": "vivid",
+  "name": "高饱和粗描边",
+  "category": "style",
+  "apply": {
+    "roles": {"primary": "primary", "accent": "accent", "support": "support"},
+    "opacity": {},
+    "background": null,
+    "gradient": false,
+    "stroke_width": 1.25
+  },
+  "note": "全饱和 + 描边加粗，醒目（适合大尺寸展示）。"
+}

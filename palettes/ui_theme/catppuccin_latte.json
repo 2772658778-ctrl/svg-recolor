@@ -1,0 +1,10 @@
+{
+  "id": "catppuccin_latte",
+  "name": "Catppuccin Latte",
+  "category": "ui_theme",
+  "tags": ["ui", "modern", "light", "catppuccin"],
+  "source": {"name": "Catppuccin", "license": "MIT", "url": "https://github.com/catppuccin/palette"},
+  "colors": ["#1e66f5", "#8839ef", "#ea76cb", "#d20f39", "#fe640b", "#df8e1d", "#40a02b", "#179299", "#4c4f69", "#9ca0b0", "#eff1f5"],
+  "roles": {"primary": 0, "accent": 1, "support": 8},
+  "note": "浅色主题；深色线条适合浅底图标。"
+}

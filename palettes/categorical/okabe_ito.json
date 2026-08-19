@@ -1,0 +1,10 @@
+{
+  "id": "okabe_ito",
+  "name": "Okabe-Ito 色盲安全（Wong）",
+  "category": "categorical",
+  "tags": ["colorblind-safe", "scientific", "categorical", "nature"],
+  "source": {"name": "Masataka Okabe & Kei Ito, Color Universal Design (CUD)", "license": "CC-BY-4.0", "url": "https://jfly.uni-koeln.de/color/"},
+  "colors": ["#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7", "#000000"],
+  "roles": {"primary": 4, "accent": 0, "support": 6},
+  "note": "Nature 推荐分类色。主色=蓝#0072B2，强调=橙#E69F00（最安全蓝橙组合）。"
+}

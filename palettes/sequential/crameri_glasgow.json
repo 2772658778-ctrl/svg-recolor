@@ -1,0 +1,35 @@
+{
+  "id": "crameri_glasgow",
+  "name": "Crameri glasgow",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#361338",
+    "#4d1924",
+    "#652211",
+    "#743b01",
+    "#735704",
+    "#6d702d",
+    "#65845d",
+    "#60988c",
+    "#7eaeb9",
+    "#abc0dc",
+    "#dbd3ff"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}

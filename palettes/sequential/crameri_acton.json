@@ -1,0 +1,35 @@
+{
+  "id": "crameri_acton",
+  "name": "Crameri acton",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#260d40",
+    "#3c2c5c",
+    "#4f4775",
+    "#665e8a",
+    "#85648e",
+    "#a86690",
+    "#ca7199",
+    "#d890b3",
+    "#e2b2cf",
+    "#e9d1e7",
+    "#f0eafa"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}

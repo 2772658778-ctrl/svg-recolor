@@ -1,0 +1,35 @@
+{
+  "id": "crameri_roma",
+  "name": "Crameri roma",
+  "category": "diverging",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "diverging"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#7e1700",
+    "#984e14",
+    "#ac7726",
+    "#c1a343",
+    "#d2d484",
+    "#c0eac3",
+    "#89dad7",
+    "#4db3cf",
+    "#2d88be",
+    "#1e5fac",
+    "#033198"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 10,
+    "support": 5
+  },
+  "note": "科研色图，CVD 友好。"
+}

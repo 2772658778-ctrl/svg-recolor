@@ -1,0 +1,35 @@
+{
+  "id": "tailwind_green",
+  "name": "Tailwind green",
+  "category": "ui_theme",
+  "tags": [
+    "tailwind",
+    "ramp",
+    "green",
+    "ui_theme"
+  ],
+  "source": {
+    "name": "Tailwind CSS v3.4",
+    "license": "MIT",
+    "url": "https://tailwindcss.com/docs/customizing-colors"
+  },
+  "colors": [
+    "#f0fdf4",
+    "#dcfce7",
+    "#bbf7d0",
+    "#86efac",
+    "#4ade80",
+    "#22c55e",
+    "#16a34a",
+    "#15803d",
+    "#166534",
+    "#14532d",
+    "#052e16"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "单色相 50-950 色阶。"
+}

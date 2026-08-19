@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_topo",
+  "name": "cmocean topo",
+  "category": "sequential",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "sequential"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#281a2c",
+    "#41417d",
+    "#407598",
+    "#51a7a3",
+    "#92d8a4",
+    "#0d2514",
+    "#27511e",
+    "#6b703c",
+    "#b3913f",
+    "#d8c38b",
+    "#f9fde4"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "海洋学色图，通用性好。"
+}

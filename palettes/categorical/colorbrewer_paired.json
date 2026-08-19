@@ -1,0 +1,35 @@
+{
+  "id": "colorbrewer_paired",
+  "name": "ColorBrewer Paired",
+  "category": "categorical",
+  "tags": [
+    "colorbrewer",
+    "categorical",
+    "scientific"
+  ],
+  "source": {
+    "name": "ColorBrewer (Cynthia Brewer)",
+    "license": "Apache-2.0",
+    "url": "https://colorbrewer2.org/"
+  },
+  "colors": [
+    "#a6cee3",
+    "#1f78b4",
+    "#b2df8a",
+    "#33a02c",
+    "#fb9a99",
+    "#e31a1c",
+    "#fdbf6f",
+    "#ff7f00",
+    "#cab2d6",
+    "#6a3d9a",
+    "#ffff99",
+    "#b15928"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 1,
+    "support": 2
+  },
+  "note": "ColorBrewer 补全。"
+}

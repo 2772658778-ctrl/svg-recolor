@@ -1,0 +1,35 @@
+{
+  "id": "tailwind_purple",
+  "name": "Tailwind purple",
+  "category": "ui_theme",
+  "tags": [
+    "tailwind",
+    "ramp",
+    "purple",
+    "ui_theme"
+  ],
+  "source": {
+    "name": "Tailwind CSS v3.4",
+    "license": "MIT",
+    "url": "https://tailwindcss.com/docs/customizing-colors"
+  },
+  "colors": [
+    "#faf5ff",
+    "#f3e8ff",
+    "#e9d5ff",
+    "#d8b4fe",
+    "#c084fc",
+    "#a855f7",
+    "#9333ea",
+    "#7e22ce",
+    "#6b21a8",
+    "#581c87",
+    "#3b0764"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "单色相 50-950 色阶。"
+}

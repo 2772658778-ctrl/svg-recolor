@@ -1,0 +1,1778 @@
+{
+  "palettes": [
+    {
+      "id": "colorbrewer_accent",
+      "name": "ColorBrewer Accent",
+      "category": "categorical",
+      "tags": [
+        "colorbrewer",
+        "categorical",
+        "scientific"
+      ],
+      "colors": 8,
+      "license": "Apache-2.0",
+      "file": "palettes\\categorical\\colorbrewer_accent.json"
+    },
+    {
+      "id": "colorbrewer_dark2",
+      "name": "ColorBrewer Dark2",
+      "category": "categorical",
+      "tags": [
+        "colorbrewer",
+        "categorical",
+        "scientific"
+      ],
+      "colors": 8,
+      "license": "Apache-2.0",
+      "file": "palettes\\categorical\\colorbrewer_dark2.json"
+    },
+    {
+      "id": "colorbrewer_paired",
+      "name": "ColorBrewer Paired",
+      "category": "categorical",
+      "tags": [
+        "colorbrewer",
+        "categorical",
+        "scientific"
+      ],
+      "colors": 12,
+      "license": "Apache-2.0",
+      "file": "palettes\\categorical\\colorbrewer_paired.json"
+    },
+    {
+      "id": "colorbrewer_pastel1",
+      "name": "ColorBrewer Pastel1",
+      "category": "categorical",
+      "tags": [
+        "colorbrewer",
+        "categorical",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\categorical\\colorbrewer_pastel1.json"
+    },
+    {
+      "id": "colorbrewer_pastel2",
+      "name": "ColorBrewer Pastel2",
+      "category": "categorical",
+      "tags": [
+        "colorbrewer",
+        "categorical",
+        "scientific"
+      ],
+      "colors": 8,
+      "license": "Apache-2.0",
+      "file": "palettes\\categorical\\colorbrewer_pastel2.json"
+    },
+    {
+      "id": "colorbrewer_set1",
+      "name": "ColorBrewer Set1",
+      "category": "categorical",
+      "tags": [
+        "colorbrewer",
+        "categorical",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\categorical\\colorbrewer_set1.json"
+    },
+    {
+      "id": "colorbrewer_set2",
+      "name": "ColorBrewer Set2（定性）",
+      "category": "categorical",
+      "tags": [
+        "scientific",
+        "categorical",
+        "colorbrewer"
+      ],
+      "colors": 8,
+      "license": "Apache-2.0",
+      "file": "palettes\\categorical\\colorbrewer_set2.json"
+    },
+    {
+      "id": "colorbrewer_set3",
+      "name": "ColorBrewer Set3",
+      "category": "categorical",
+      "tags": [
+        "colorbrewer",
+        "categorical",
+        "scientific"
+      ],
+      "colors": 12,
+      "license": "Apache-2.0",
+      "file": "palettes\\categorical\\colorbrewer_set3.json"
+    },
+    {
+      "id": "d3_category10",
+      "name": "D3 Category10",
+      "category": "categorical",
+      "tags": [
+        "categorical",
+        "dataviz"
+      ],
+      "colors": 10,
+      "license": "ISC",
+      "file": "palettes\\categorical\\d3_category10.json"
+    },
+    {
+      "id": "okabe_ito",
+      "name": "Okabe-Ito 色盲安全（Wong）",
+      "category": "categorical",
+      "tags": [
+        "colorblind-safe",
+        "scientific",
+        "categorical",
+        "nature"
+      ],
+      "colors": 8,
+      "license": "CC-BY-4.0",
+      "file": "palettes\\categorical\\okabe_ito.json"
+    },
+    {
+      "id": "tol_bright",
+      "name": "Paul Tol Bright（CVD 安全）",
+      "category": "categorical",
+      "tags": [
+        "colorblind-safe",
+        "scientific",
+        "categorical"
+      ],
+      "colors": 7,
+      "license": "PD（免费使用）",
+      "file": "palettes\\categorical\\tol_bright.json"
+    },
+    {
+      "id": "tol_muted",
+      "name": "Paul Tol Muted（低饱和）",
+      "category": "categorical",
+      "tags": [
+        "colorblind-safe",
+        "scientific",
+        "categorical",
+        "muted"
+      ],
+      "colors": 9,
+      "license": "PD",
+      "file": "palettes\\categorical\\tol_muted.json"
+    },
+    {
+      "id": "cmocean_phase",
+      "name": "cmocean phase",
+      "category": "cyclic",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "cyclic"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\cyclic\\cmocean_phase.json"
+    },
+    {
+      "id": "brbg_11",
+      "name": "ColorBrewer BrBG（11 级）",
+      "category": "diverging",
+      "tags": [
+        "colorbrewer",
+        "diverging",
+        "colorblind-safe",
+        "scientific"
+      ],
+      "colors": 11,
+      "license": "Apache-2.0",
+      "file": "palettes\\diverging\\brbg_11.json"
+    },
+    {
+      "id": "cmocean_balance",
+      "name": "cmocean balance",
+      "category": "diverging",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "diverging"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\diverging\\cmocean_balance.json"
+    },
+    {
+      "id": "cmocean_curl",
+      "name": "cmocean curl",
+      "category": "diverging",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "diverging"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\diverging\\cmocean_curl.json"
+    },
+    {
+      "id": "cmocean_delta",
+      "name": "cmocean delta",
+      "category": "diverging",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "diverging"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\diverging\\cmocean_delta.json"
+    },
+    {
+      "id": "cmocean_diff",
+      "name": "cmocean diff",
+      "category": "diverging",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "diverging"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\diverging\\cmocean_diff.json"
+    },
+    {
+      "id": "cmocean_tarn",
+      "name": "cmocean tarn",
+      "category": "diverging",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "diverging"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\diverging\\cmocean_tarn.json"
+    },
+    {
+      "id": "colorbrewer_prgn_11",
+      "name": "ColorBrewer PRGn",
+      "category": "diverging",
+      "tags": [
+        "colorbrewer",
+        "diverging",
+        "scientific"
+      ],
+      "colors": 11,
+      "license": "Apache-2.0",
+      "file": "palettes\\diverging\\colorbrewer_prgn_11.json"
+    },
+    {
+      "id": "colorbrewer_puor_11",
+      "name": "ColorBrewer PuOr",
+      "category": "diverging",
+      "tags": [
+        "colorbrewer",
+        "diverging",
+        "scientific"
+      ],
+      "colors": 11,
+      "license": "Apache-2.0",
+      "file": "palettes\\diverging\\colorbrewer_puor_11.json"
+    },
+    {
+      "id": "colorbrewer_rdgy_11",
+      "name": "ColorBrewer RdGy",
+      "category": "diverging",
+      "tags": [
+        "colorbrewer",
+        "diverging",
+        "scientific"
+      ],
+      "colors": 11,
+      "license": "Apache-2.0",
+      "file": "palettes\\diverging\\colorbrewer_rdgy_11.json"
+    },
+    {
+      "id": "colorbrewer_rdylgn_11",
+      "name": "ColorBrewer RdYlGn",
+      "category": "diverging",
+      "tags": [
+        "colorbrewer",
+        "diverging",
+        "scientific"
+      ],
+      "colors": 11,
+      "license": "Apache-2.0",
+      "file": "palettes\\diverging\\colorbrewer_rdylgn_11.json"
+    },
+    {
+      "id": "crameri_berlin",
+      "name": "Crameri berlin",
+      "category": "diverging",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "diverging"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\diverging\\crameri_berlin.json"
+    },
+    {
+      "id": "crameri_broc",
+      "name": "Crameri broc",
+      "category": "diverging",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "diverging"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\diverging\\crameri_broc.json"
+    },
+    {
+      "id": "crameri_cork",
+      "name": "Crameri cork",
+      "category": "diverging",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "diverging"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\diverging\\crameri_cork.json"
+    },
+    {
+      "id": "crameri_lisbon",
+      "name": "Crameri lisbon",
+      "category": "diverging",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "diverging"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\diverging\\crameri_lisbon.json"
+    },
+    {
+      "id": "crameri_oleron",
+      "name": "Crameri oleron",
+      "category": "diverging",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "diverging"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\diverging\\crameri_oleron.json"
+    },
+    {
+      "id": "crameri_roma",
+      "name": "Crameri roma",
+      "category": "diverging",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "diverging"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\diverging\\crameri_roma.json"
+    },
+    {
+      "id": "crameri_vik",
+      "name": "Crameri vik",
+      "category": "diverging",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "diverging"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\diverging\\crameri_vik.json"
+    },
+    {
+      "id": "piyg_11",
+      "name": "ColorBrewer PiYG（11 级）",
+      "category": "diverging",
+      "tags": [
+        "colorbrewer",
+        "diverging",
+        "scientific"
+      ],
+      "colors": 11,
+      "license": "Apache-2.0",
+      "file": "palettes\\diverging\\piyg_11.json"
+    },
+    {
+      "id": "rdbu_11",
+      "name": "ColorBrewer RdBu（11 级）",
+      "category": "diverging",
+      "tags": [
+        "colorbrewer",
+        "diverging",
+        "scientific"
+      ],
+      "colors": 11,
+      "license": "Apache-2.0",
+      "file": "palettes\\diverging\\rdbu_11.json"
+    },
+    {
+      "id": "rdylbu_11",
+      "name": "ColorBrewer RdYlBu（11 级）",
+      "category": "diverging",
+      "tags": [
+        "colorbrewer",
+        "diverging",
+        "scientific"
+      ],
+      "colors": 11,
+      "license": "Apache-2.0",
+      "file": "palettes\\diverging\\rdylbu_11.json"
+    },
+    {
+      "id": "spectral_11",
+      "name": "ColorBrewer Spectral（11 级）",
+      "category": "diverging",
+      "tags": [
+        "colorbrewer",
+        "diverging",
+        "scientific"
+      ],
+      "colors": 11,
+      "license": "Apache-2.0",
+      "file": "palettes\\diverging\\spectral_11.json"
+    },
+    {
+      "id": "forest",
+      "name": "森林（Green → Pine）",
+      "category": "duotone",
+      "tags": [
+        "duotone",
+        "nature",
+        "green"
+      ],
+      "colors": 3,
+      "license": "MIT",
+      "file": "palettes\\duotone\\forest.json"
+    },
+    {
+      "id": "ocean",
+      "name": "海洋（Sky → Deep Blue）",
+      "category": "duotone",
+      "tags": [
+        "duotone",
+        "scientific",
+        "cool"
+      ],
+      "colors": 3,
+      "license": "MIT",
+      "file": "palettes\\duotone\\ocean.json"
+    },
+    {
+      "id": "royal",
+      "name": "皇家（Violet → Magenta）",
+      "category": "duotone",
+      "tags": [
+        "duotone",
+        "violet",
+        "magenta"
+      ],
+      "colors": 3,
+      "license": "MIT",
+      "file": "palettes\\duotone\\royal.json"
+    },
+    {
+      "id": "sunset",
+      "name": "日落（Orange → Rust）",
+      "category": "duotone",
+      "tags": [
+        "duotone",
+        "warm",
+        "sunset"
+      ],
+      "colors": 3,
+      "license": "MIT",
+      "file": "palettes\\duotone\\sunset.json"
+    },
+    {
+      "id": "tailwind_gray",
+      "name": "Tailwind Gray 灰阶（50-950）",
+      "category": "neutral",
+      "tags": [
+        "neutral",
+        "gray",
+        "ramp",
+        "tailwind"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\neutral\\tailwind_gray.json"
+    },
+    {
+      "id": "tailwind_neutral",
+      "name": "Tailwind neutral",
+      "category": "neutral",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "neutral",
+        "neutral"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\neutral\\tailwind_neutral.json"
+    },
+    {
+      "id": "tailwind_slate",
+      "name": "Tailwind Slate 灰阶（50-950）",
+      "category": "neutral",
+      "tags": [
+        "neutral",
+        "gray",
+        "ramp",
+        "tailwind"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\neutral\\tailwind_slate.json"
+    },
+    {
+      "id": "tailwind_stone",
+      "name": "Tailwind Stone 暖灰阶（50-950）",
+      "category": "neutral",
+      "tags": [
+        "neutral",
+        "warm-gray",
+        "ramp",
+        "tailwind"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\neutral\\tailwind_stone.json"
+    },
+    {
+      "id": "tailwind_zinc",
+      "name": "Tailwind zinc",
+      "category": "neutral",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "zinc",
+        "neutral"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\neutral\\tailwind_zinc.json"
+    },
+    {
+      "id": "blues_9",
+      "name": "ColorBrewer Blues（9 级）",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\blues_9.json"
+    },
+    {
+      "id": "cmocean_algae",
+      "name": "cmocean algae",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_algae.json"
+    },
+    {
+      "id": "cmocean_amp",
+      "name": "cmocean amp",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_amp.json"
+    },
+    {
+      "id": "cmocean_deep",
+      "name": "cmocean deep",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_deep.json"
+    },
+    {
+      "id": "cmocean_dense",
+      "name": "cmocean dense",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_dense.json"
+    },
+    {
+      "id": "cmocean_gray",
+      "name": "cmocean gray",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_gray.json"
+    },
+    {
+      "id": "cmocean_haline",
+      "name": "cmocean haline",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_haline.json"
+    },
+    {
+      "id": "cmocean_ice",
+      "name": "cmocean ice",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_ice.json"
+    },
+    {
+      "id": "cmocean_matter",
+      "name": "cmocean matter",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_matter.json"
+    },
+    {
+      "id": "cmocean_oxy",
+      "name": "cmocean oxy",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_oxy.json"
+    },
+    {
+      "id": "cmocean_rain",
+      "name": "cmocean rain",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_rain.json"
+    },
+    {
+      "id": "cmocean_solar",
+      "name": "cmocean solar",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_solar.json"
+    },
+    {
+      "id": "cmocean_speed",
+      "name": "cmocean speed",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_speed.json"
+    },
+    {
+      "id": "cmocean_tempo",
+      "name": "cmocean tempo",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_tempo.json"
+    },
+    {
+      "id": "cmocean_thermal",
+      "name": "cmocean thermal",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_thermal.json"
+    },
+    {
+      "id": "cmocean_topo",
+      "name": "cmocean topo",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_topo.json"
+    },
+    {
+      "id": "cmocean_turbid",
+      "name": "cmocean turbid",
+      "category": "sequential",
+      "tags": [
+        "cmocean",
+        "perceptually-uniform",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\cmocean_turbid.json"
+    },
+    {
+      "id": "colorbrewer_bugn_9",
+      "name": "ColorBrewer BuGn",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_bugn_9.json"
+    },
+    {
+      "id": "colorbrewer_bupu_9",
+      "name": "ColorBrewer BuPu",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_bupu_9.json"
+    },
+    {
+      "id": "colorbrewer_gnbu_9",
+      "name": "ColorBrewer GnBu",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_gnbu_9.json"
+    },
+    {
+      "id": "colorbrewer_greens_9",
+      "name": "ColorBrewer Greens",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_greens_9.json"
+    },
+    {
+      "id": "colorbrewer_greys_9",
+      "name": "ColorBrewer Greys",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_greys_9.json"
+    },
+    {
+      "id": "colorbrewer_ord_9",
+      "name": "ColorBrewer OrRd",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_ord_9.json"
+    },
+    {
+      "id": "colorbrewer_pubu_9",
+      "name": "ColorBrewer PuBu",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_pubu_9.json"
+    },
+    {
+      "id": "colorbrewer_pubugn_9",
+      "name": "ColorBrewer PuBuGn",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_pubugn_9.json"
+    },
+    {
+      "id": "colorbrewer_purd_9",
+      "name": "ColorBrewer PuRd",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_purd_9.json"
+    },
+    {
+      "id": "colorbrewer_purples_9",
+      "name": "ColorBrewer Purples",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_purples_9.json"
+    },
+    {
+      "id": "colorbrewer_rdpu_9",
+      "name": "ColorBrewer RdPu",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_rdpu_9.json"
+    },
+    {
+      "id": "colorbrewer_reds_9",
+      "name": "ColorBrewer Reds",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_reds_9.json"
+    },
+    {
+      "id": "colorbrewer_ylgn_9",
+      "name": "ColorBrewer YlGn",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_ylgn_9.json"
+    },
+    {
+      "id": "colorbrewer_ylorbr_9",
+      "name": "ColorBrewer YlOrBr",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_ylorbr_9.json"
+    },
+    {
+      "id": "colorbrewer_ylorrd_9",
+      "name": "ColorBrewer YlOrRd",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\colorbrewer_ylorrd_9.json"
+    },
+    {
+      "id": "crameri_acton",
+      "name": "Crameri acton",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_acton.json"
+    },
+    {
+      "id": "crameri_bamako",
+      "name": "Crameri bamako",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_bamako.json"
+    },
+    {
+      "id": "crameri_batlow",
+      "name": "Crameri batlow",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_batlow.json"
+    },
+    {
+      "id": "crameri_bilbao",
+      "name": "Crameri bilbao",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_bilbao.json"
+    },
+    {
+      "id": "crameri_buda",
+      "name": "Crameri buda",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_buda.json"
+    },
+    {
+      "id": "crameri_bukavu",
+      "name": "Crameri bukavu",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_bukavu.json"
+    },
+    {
+      "id": "crameri_davos",
+      "name": "Crameri davos",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_davos.json"
+    },
+    {
+      "id": "crameri_devon",
+      "name": "Crameri devon",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_devon.json"
+    },
+    {
+      "id": "crameri_fes",
+      "name": "Crameri fes",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_fes.json"
+    },
+    {
+      "id": "crameri_glasgow",
+      "name": "Crameri glasgow",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_glasgow.json"
+    },
+    {
+      "id": "crameri_grayc",
+      "name": "Crameri grayC",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_grayc.json"
+    },
+    {
+      "id": "crameri_hawaii",
+      "name": "Crameri hawaii",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_hawaii.json"
+    },
+    {
+      "id": "crameri_imola",
+      "name": "Crameri imola",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_imola.json"
+    },
+    {
+      "id": "crameri_lajolla",
+      "name": "Crameri lajolla",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_lajolla.json"
+    },
+    {
+      "id": "crameri_lapaz",
+      "name": "Crameri lapaz",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_lapaz.json"
+    },
+    {
+      "id": "crameri_lipari",
+      "name": "Crameri lipari",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_lipari.json"
+    },
+    {
+      "id": "crameri_managua",
+      "name": "Crameri managua",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_managua.json"
+    },
+    {
+      "id": "crameri_navia",
+      "name": "Crameri navia",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_navia.json"
+    },
+    {
+      "id": "crameri_nuuk",
+      "name": "Crameri nuuk",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_nuuk.json"
+    },
+    {
+      "id": "crameri_oslo",
+      "name": "Crameri oslo",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_oslo.json"
+    },
+    {
+      "id": "crameri_tofino",
+      "name": "Crameri tofino",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_tofino.json"
+    },
+    {
+      "id": "crameri_tokyo",
+      "name": "Crameri tokyo",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_tokyo.json"
+    },
+    {
+      "id": "crameri_turku",
+      "name": "Crameri turku",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_turku.json"
+    },
+    {
+      "id": "crameri_vanimo",
+      "name": "Crameri vanimo",
+      "category": "sequential",
+      "tags": [
+        "crameri",
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\sequential\\crameri_vanimo.json"
+    },
+    {
+      "id": "inferno_10",
+      "name": "Inferno 顺序色图（10 级）",
+      "category": "sequential",
+      "tags": [
+        "perceptually-uniform",
+        "sequential",
+        "matplotlib"
+      ],
+      "colors": 10,
+      "license": "BSD-3-Clause",
+      "file": "palettes\\sequential\\inferno_10.json"
+    },
+    {
+      "id": "magma_10",
+      "name": "Magma 顺序色图（10 级）",
+      "category": "sequential",
+      "tags": [
+        "perceptually-uniform",
+        "sequential",
+        "matplotlib"
+      ],
+      "colors": 10,
+      "license": "BSD-3-Clause",
+      "file": "palettes\\sequential\\magma_10.json"
+    },
+    {
+      "id": "oranges_9",
+      "name": "ColorBrewer Oranges（9 级）",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\oranges_9.json"
+    },
+    {
+      "id": "plasma_10",
+      "name": "Plasma 顺序色图（10 级）",
+      "category": "sequential",
+      "tags": [
+        "perceptually-uniform",
+        "sequential",
+        "matplotlib"
+      ],
+      "colors": 10,
+      "license": "BSD-3-Clause",
+      "file": "palettes\\sequential\\plasma_10.json"
+    },
+    {
+      "id": "purples_9",
+      "name": "ColorBrewer Purples（9 级）",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\purples_9.json"
+    },
+    {
+      "id": "viridis_10",
+      "name": "Viridis 顺序色图（10 级）",
+      "category": "sequential",
+      "tags": [
+        "perceptually-uniform",
+        "colorblind-safe",
+        "sequential",
+        "matplotlib"
+      ],
+      "colors": 10,
+      "license": "BSD-3-Clause",
+      "file": "palettes\\sequential\\viridis_10.json"
+    },
+    {
+      "id": "ylgnbu_9",
+      "name": "ColorBrewer YlGnBu（9 级）",
+      "category": "sequential",
+      "tags": [
+        "colorbrewer",
+        "sequential",
+        "scientific"
+      ],
+      "colors": 9,
+      "license": "Apache-2.0",
+      "file": "palettes\\sequential\\ylgnbu_9.json"
+    },
+    {
+      "id": "catppuccin_latte",
+      "name": "Catppuccin Latte",
+      "category": "ui_theme",
+      "tags": [
+        "ui",
+        "modern",
+        "light",
+        "catppuccin"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\catppuccin_latte.json"
+    },
+    {
+      "id": "catppuccin_mocha",
+      "name": "Catppuccin Mocha",
+      "category": "ui_theme",
+      "tags": [
+        "ui",
+        "modern",
+        "dark",
+        "catppuccin"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\catppuccin_mocha.json"
+    },
+    {
+      "id": "dracula",
+      "name": "Dracula",
+      "category": "ui_theme",
+      "tags": [
+        "ui",
+        "modern",
+        "dracula"
+      ],
+      "colors": 9,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\dracula.json"
+    },
+    {
+      "id": "gruvbox_dark",
+      "name": "Gruvbox Dark",
+      "category": "ui_theme",
+      "tags": [
+        "ui",
+        "retro",
+        "warm",
+        "gruvbox"
+      ],
+      "colors": 10,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\gruvbox_dark.json"
+    },
+    {
+      "id": "nord",
+      "name": "Nord",
+      "category": "ui_theme",
+      "tags": [
+        "ui",
+        "scandinavian",
+        "cold",
+        "nord"
+      ],
+      "colors": 10,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\nord.json"
+    },
+    {
+      "id": "tailwind_amber",
+      "name": "Tailwind amber",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "amber",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_amber.json"
+    },
+    {
+      "id": "tailwind_blue",
+      "name": "Tailwind blue",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "blue",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_blue.json"
+    },
+    {
+      "id": "tailwind_cyan",
+      "name": "Tailwind cyan",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "cyan",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_cyan.json"
+    },
+    {
+      "id": "tailwind_emerald",
+      "name": "Tailwind emerald",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "emerald",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_emerald.json"
+    },
+    {
+      "id": "tailwind_fuchsia",
+      "name": "Tailwind fuchsia",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "fuchsia",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_fuchsia.json"
+    },
+    {
+      "id": "tailwind_green",
+      "name": "Tailwind green",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "green",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_green.json"
+    },
+    {
+      "id": "tailwind_indigo",
+      "name": "Tailwind indigo",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "indigo",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_indigo.json"
+    },
+    {
+      "id": "tailwind_lime",
+      "name": "Tailwind lime",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "lime",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_lime.json"
+    },
+    {
+      "id": "tailwind_orange",
+      "name": "Tailwind orange",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "orange",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_orange.json"
+    },
+    {
+      "id": "tailwind_pink",
+      "name": "Tailwind pink",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "pink",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_pink.json"
+    },
+    {
+      "id": "tailwind_purple",
+      "name": "Tailwind purple",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "purple",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_purple.json"
+    },
+    {
+      "id": "tailwind_red",
+      "name": "Tailwind red",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "red",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_red.json"
+    },
+    {
+      "id": "tailwind_rose",
+      "name": "Tailwind rose",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "rose",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_rose.json"
+    },
+    {
+      "id": "tailwind_sky",
+      "name": "Tailwind sky",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "sky",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_sky.json"
+    },
+    {
+      "id": "tailwind_teal",
+      "name": "Tailwind teal",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "teal",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_teal.json"
+    },
+    {
+      "id": "tailwind_violet",
+      "name": "Tailwind violet",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "violet",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_violet.json"
+    },
+    {
+      "id": "tailwind_yellow",
+      "name": "Tailwind yellow",
+      "category": "ui_theme",
+      "tags": [
+        "tailwind",
+        "ramp",
+        "yellow",
+        "ui_theme"
+      ],
+      "colors": 11,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tailwind_yellow.json"
+    },
+    {
+      "id": "tokyo_night",
+      "name": "Tokyo Night (Storm)",
+      "category": "ui_theme",
+      "tags": [
+        "ui",
+        "modern",
+        "tokyonight"
+      ],
+      "colors": 9,
+      "license": "MIT",
+      "file": "palettes\\ui_theme\\tokyo_night.json"
+    }
+  ],
+  "skins": [
+    {
+      "id": "dark",
+      "name": "深色（背景暂关）",
+      "file": "skins\\dark.json"
+    },
+    {
+      "id": "duotone",
+      "name": "双色调",
+      "file": "skins\\duotone.json"
+    },
+    {
+      "id": "gradient",
+      "name": "渐变描边",
+      "file": "skins\\gradient.json"
+    },
+    {
+      "id": "mono",
+      "name": "单色",
+      "file": "skins\\mono.json"
+    },
+    {
+      "id": "pastel",
+      "name": "柔和（降低不透明度）",
+      "file": "skins\\pastel.json"
+    },
+    {
+      "id": "tritone",
+      "name": "三色调",
+      "file": "skins\\tritone.json"
+    },
+    {
+      "id": "vivid",
+      "name": "高饱和粗描边",
+      "file": "skins\\vivid.json"
+    }
+  ]
+}

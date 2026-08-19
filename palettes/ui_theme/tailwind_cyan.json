@@ -1,0 +1,35 @@
+{
+  "id": "tailwind_cyan",
+  "name": "Tailwind cyan",
+  "category": "ui_theme",
+  "tags": [
+    "tailwind",
+    "ramp",
+    "cyan",
+    "ui_theme"
+  ],
+  "source": {
+    "name": "Tailwind CSS v3.4",
+    "license": "MIT",
+    "url": "https://tailwindcss.com/docs/customizing-colors"
+  },
+  "colors": [
+    "#ecfeff",
+    "#cffafe",
+    "#a5f3fc",
+    "#67e8f9",
+    "#22d3ee",
+    "#06b6d4",
+    "#0891b2",
+    "#0e7490",
+    "#155e75",
+    "#164e63",
+    "#083344"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "单色相 50-950 色阶。"
+}

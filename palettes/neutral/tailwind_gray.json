@@ -1,0 +1,10 @@
+{
+  "id": "tailwind_gray",
+  "name": "Tailwind Gray 灰阶（50-950）",
+  "category": "neutral",
+  "tags": ["neutral", "gray", "ramp", "tailwind"],
+  "source": {"name": "Tailwind CSS v4", "license": "MIT", "url": "https://github.com/tailwindlabs/tailwindcss"},
+  "colors": ["#f9fafb", "#f3f4f6", "#e5e7eb", "#d1d5db", "#9ca3af", "#6b7280", "#4b5563", "#374151", "#1f2937", "#111827", "#030712"],
+  "roles": {"primary": 8, "accent": 6, "support": 3},
+  "note": "中性灰阶。"
+}

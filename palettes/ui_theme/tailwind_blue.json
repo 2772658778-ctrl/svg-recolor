@@ -1,0 +1,35 @@
+{
+  "id": "tailwind_blue",
+  "name": "Tailwind blue",
+  "category": "ui_theme",
+  "tags": [
+    "tailwind",
+    "ramp",
+    "blue",
+    "ui_theme"
+  ],
+  "source": {
+    "name": "Tailwind CSS v3.4",
+    "license": "MIT",
+    "url": "https://tailwindcss.com/docs/customizing-colors"
+  },
+  "colors": [
+    "#eff6ff",
+    "#dbeafe",
+    "#bfdbfe",
+    "#93c5fd",
+    "#60a5fa",
+    "#3b82f6",
+    "#2563eb",
+    "#1d4ed8",
+    "#1e40af",
+    "#1e3a8a",
+    "#172554"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "单色相 50-950 色阶。"
+}

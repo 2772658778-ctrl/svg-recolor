@@ -1,0 +1,10 @@
+{
+  "id": "viridis_10",
+  "name": "Viridis 顺序色图（10 级）",
+  "category": "sequential",
+  "tags": ["perceptually-uniform", "colorblind-safe", "sequential", "matplotlib"],
+  "source": {"name": "Matplotlib viridis (Stéfan van der Walt & Nathaniel Smith)", "license": "BSD-3-Clause", "url": "https://matplotlib.org/stable/users/explain/colors/colormaps.html"},
+  "colors": ["#440154", "#482878", "#3e4989", "#31688e", "#26828e", "#1f9e89", "#35b779", "#6ece58", "#b5de2b", "#fde725"],
+  "roles": {"primary": 3, "accent": 8, "support": 1},
+  "note": "感知均匀，色盲安全。"
+}

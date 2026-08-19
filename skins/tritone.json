@@ -1,0 +1,13 @@
+{
+  "id": "tritone",
+  "name": "三色调",
+  "category": "style",
+  "apply": {
+    "roles": {"primary": "primary", "accent": "accent", "support": "support"},
+    "opacity": {"support": 0.6},
+    "background": null,
+    "gradient": false,
+    "stroke_width": null
+  },
+  "note": "主=主色，核心=强调色，外框/外壳=辅助色（半透明）。"
+}

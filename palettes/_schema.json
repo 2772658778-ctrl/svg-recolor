@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "$comment": "palettes/ 与 skins/ 统一数据规范。产品、recolor 工具、AI 均按此读取。",
+  "palette": {
+    "id": "string 唯一ID（小写下划线）",
+    "name": "string 显示名（中文）",
+    "category": "categorical | sequential | diverging | neutral | ui_theme | duotone | generated",
+    "tags": ["检索标签，如 colorblind-safe, scientific"],
+    "source": {"name": "数据来源", "license": "MIT|CC-BY|Apache-2.0|BSD-3|PD|自研", "url": "可选"},
+    "colors": ["#RRGGBB", "有序主序列（数量≥2）"],
+    "roles": {"primary": 0, "accent": 1, "support": 2},
+    "note": "string 可选（用途/背景说明）"
+  },
+  "skin": {
+    "id": "string 唯一ID",
+    "name": "string 显示名",
+    "category": "style",
+    "apply": {
+      "roles": {"primary": "primary", "accent": "accent", "support": "support"},
+      "opacity": {"primary": 1, "accent": 1, "support": 0.55},
+      "background": null,
+      "gradient": false,
+      "stroke_width": null
+    },
+    "note": "string 可选"
+  }
+}

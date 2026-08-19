@@ -1,0 +1,10 @@
+{
+  "id": "tol_muted",
+  "name": "Paul Tol Muted（低饱和）",
+  "category": "categorical",
+  "tags": ["colorblind-safe", "scientific", "categorical", "muted"],
+  "source": {"name": "Paul Tol, Colour Schemes", "license": "PD", "url": "https://personal.sron.nl/~pault/"},
+  "colors": ["#332288", "#88CCEE", "#44AA99", "#117733", "#999933", "#DDCC77", "#CC6677", "#882255", "#AA4499"],
+  "roles": {"primary": 0, "accent": 6, "support": 3},
+  "note": "Tol Muted 9 色，低饱和适合正文插图。"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "crameri_oslo",
+  "name": "Crameri oslo",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#010101",
+    "#0d1927",
+    "#122d48",
+    "#1a446d",
+    "#2c5d96",
+    "#507bbc",
+    "#7494c9",
+    "#92a6c9",
+    "#b2bccc",
+    "#d8dade",
+    "#ffffff"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}

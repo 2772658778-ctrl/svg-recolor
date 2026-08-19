@@ -1,0 +1,35 @@
+{
+  "id": "tailwind_fuchsia",
+  "name": "Tailwind fuchsia",
+  "category": "ui_theme",
+  "tags": [
+    "tailwind",
+    "ramp",
+    "fuchsia",
+    "ui_theme"
+  ],
+  "source": {
+    "name": "Tailwind CSS v3.4",
+    "license": "MIT",
+    "url": "https://tailwindcss.com/docs/customizing-colors"
+  },
+  "colors": [
+    "#fdf4ff",
+    "#fae8ff",
+    "#f5d0fe",
+    "#f0abfc",
+    "#e879f9",
+    "#d946ef",
+    "#c026d3",
+    "#a21caf",
+    "#86198f",
+    "#701a75",
+    "#4a044e"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "单色相 50-950 色阶。"
+}

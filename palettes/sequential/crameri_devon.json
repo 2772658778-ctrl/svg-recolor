@@ -1,0 +1,35 @@
+{
+  "id": "crameri_devon",
+  "name": "Crameri devon",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#2c1a4c",
+    "#293265",
+    "#274a7e",
+    "#2f62a0",
+    "#4c77c4",
+    "#7e8fdd",
+    "#a8a5ec",
+    "#c0baf2",
+    "#d5d1f6",
+    "#eae8fb",
+    "#ffffff"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}

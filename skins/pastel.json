@@ -1,0 +1,13 @@
+{
+  "id": "pastel",
+  "name": "柔和（降低不透明度）",
+  "category": "style",
+  "apply": {
+    "roles": {"primary": "primary", "accent": "accent"},
+    "opacity": {"primary": 0.6, "accent": 0.8},
+    "background": null,
+    "gradient": false,
+    "stroke_width": null
+  },
+  "note": "半透明主色，白底上呈现柔和浅色。"
+}

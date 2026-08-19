@@ -1,0 +1,35 @@
+{
+  "id": "tailwind_zinc",
+  "name": "Tailwind zinc",
+  "category": "neutral",
+  "tags": [
+    "tailwind",
+    "ramp",
+    "zinc",
+    "neutral"
+  ],
+  "source": {
+    "name": "Tailwind CSS v3.4",
+    "license": "MIT",
+    "url": "https://tailwindcss.com/docs/customizing-colors"
+  },
+  "colors": [
+    "#fafafa",
+    "#f4f4f5",
+    "#e4e4e7",
+    "#d4d4d8",
+    "#a1a1aa",
+    "#71717a",
+    "#52525b",
+    "#3f3f46",
+    "#27272a",
+    "#18181b",
+    "#09090b"
+  ],
+  "roles": {
+    "primary": 8,
+    "accent": 5,
+    "support": 2
+  },
+  "note": "单色相 50-950 色阶。"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dark",
+  "name": "深色（背景暂关）",
+  "category": "style",
+  "apply": {
+    "roles": {"primary": "primary", "accent": "accent"},
+    "opacity": {"support": 0.7},
+    "background": null,
+    "gradient": false,
+    "stroke_width": null
+  },
+  "note": "背景功能暂时关闭（白底，只换 fill/stroke）。如需深底，把 background 改为如 \"#0f172a\" 即可。"
+}

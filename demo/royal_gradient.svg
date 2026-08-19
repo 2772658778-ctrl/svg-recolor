@@ -1,0 +1,4 @@
+<!-- @license lucide-static v1.24.0 - ISC -->
+<svg xmlns="http://www.w3.org/2000/svg" class="lucide lucide-headphones" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#7c3aed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3" stroke="url(#pk-g)"/>
+<defs><linearGradient id="pk-g" gradientUnits="userSpaceOnUse" x1="2" y1="2" x2="22" y2="22"><stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#be185d"/></linearGradient></defs></svg>

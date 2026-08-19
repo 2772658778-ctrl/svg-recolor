@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_tarn",
+  "name": "cmocean tarn",
+  "category": "diverging",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "diverging"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#17230e",
+    "#3f4e0e",
+    "#846a25",
+    "#cb8448",
+    "#e3bfa3",
+    "#fcf7f6",
+    "#cbccaa",
+    "#7fa591",
+    "#2e7e7e",
+    "#154f6a",
+    "#101e4f"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 10,
+    "support": 5
+  },
+  "note": "海洋学色图，通用性好。"
+}

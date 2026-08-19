@@ -1,0 +1,10 @@
+{
+  "id": "dracula",
+  "name": "Dracula",
+  "category": "ui_theme",
+  "tags": ["ui", "modern", "dracula"],
+  "source": {"name": "Dracula", "license": "MIT", "url": "https://github.com/dracula/dracula-theme"},
+  "colors": ["#8be9fd", "#ff79c6", "#bd93f9", "#50fa7b", "#ffb86c", "#ff5555", "#f1fa8c", "#f8f8f2", "#6272a4"],
+  "roles": {"primary": 0, "accent": 1, "support": 7},
+  "note": "经典程序员主题。"
+}

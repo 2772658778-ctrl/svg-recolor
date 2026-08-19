@@ -1,0 +1,35 @@
+{
+  "id": "crameri_broc",
+  "name": "Crameri broc",
+  "category": "diverging",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "diverging"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#2c1a4c",
+    "#284174",
+    "#3f6b99",
+    "#7697b7",
+    "#b3c5d7",
+    "#ebeeec",
+    "#dcdbb8",
+    "#b6b67c",
+    "#81814c",
+    "#505023",
+    "#262600"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 10,
+    "support": 5
+  },
+  "note": "科研色图，CVD 友好。"
+}

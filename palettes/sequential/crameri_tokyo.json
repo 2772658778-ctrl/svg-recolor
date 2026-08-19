@@ -1,0 +1,35 @@
+{
+  "id": "crameri_tokyo",
+  "name": "Crameri tokyo",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#1c0e34",
+    "#481e43",
+    "#653a4d",
+    "#6e5151",
+    "#716152",
+    "#747053",
+    "#788555",
+    "#7fa35c",
+    "#95cb78",
+    "#c7f0b2",
+    "#effcdd"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}

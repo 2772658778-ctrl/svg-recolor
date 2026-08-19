@@ -1,0 +1,35 @@
+{
+  "id": "crameri_bukavu",
+  "name": "Crameri bukavu",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#1a3333",
+    "#214e71",
+    "#2f7ab6",
+    "#56a6c9",
+    "#8ad1cf",
+    "#014026",
+    "#326513",
+    "#7d7732",
+    "#b68f60",
+    "#d6c8b4",
+    "#ededfc"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}

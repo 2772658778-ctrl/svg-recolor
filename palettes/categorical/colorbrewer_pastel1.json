@@ -1,0 +1,32 @@
+{
+  "id": "colorbrewer_pastel1",
+  "name": "ColorBrewer Pastel1",
+  "category": "categorical",
+  "tags": [
+    "colorbrewer",
+    "categorical",
+    "scientific"
+  ],
+  "source": {
+    "name": "ColorBrewer (Cynthia Brewer)",
+    "license": "Apache-2.0",
+    "url": "https://colorbrewer2.org/"
+  },
+  "colors": [
+    "#fbb4ae",
+    "#b3cde3",
+    "#ccebc5",
+    "#decbe4",
+    "#fed9a6",
+    "#ffffcc",
+    "#e5d8bd",
+    "#fddaec",
+    "#f2f2f2"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 1,
+    "support": 2
+  },
+  "note": "ColorBrewer 补全。"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "colorbrewer_rdpu_9",
+  "name": "ColorBrewer RdPu",
+  "category": "sequential",
+  "tags": [
+    "colorbrewer",
+    "sequential",
+    "scientific"
+  ],
+  "source": {
+    "name": "ColorBrewer (Cynthia Brewer)",
+    "license": "Apache-2.0",
+    "url": "https://colorbrewer2.org/"
+  },
+  "colors": [
+    "#fff7f3",
+    "#fde0dd",
+    "#fcc5c0",
+    "#fa9fb5",
+    "#f768a1",
+    "#dd3497",
+    "#ae017e",
+    "#7a0177",
+    "#49006a"
+  ],
+  "roles": {
+    "primary": 4,
+    "accent": 8,
+    "support": 1
+  },
+  "note": "ColorBrewer 补全。"
+}

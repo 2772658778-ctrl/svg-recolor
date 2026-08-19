@@ -1,0 +1,34 @@
+{
+  "id": "colorbrewer_puor_11",
+  "name": "ColorBrewer PuOr",
+  "category": "diverging",
+  "tags": [
+    "colorbrewer",
+    "diverging",
+    "scientific"
+  ],
+  "source": {
+    "name": "ColorBrewer (Cynthia Brewer)",
+    "license": "Apache-2.0",
+    "url": "https://colorbrewer2.org/"
+  },
+  "colors": [
+    "#7f3b08",
+    "#b35806",
+    "#e08214",
+    "#fdb863",
+    "#fee0b6",
+    "#f7f7f7",
+    "#d8daeb",
+    "#b2abd2",
+    "#8073ac",
+    "#542788",
+    "#2d004b"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 10,
+    "support": 5
+  },
+  "note": "ColorBrewer 补全。"
+}

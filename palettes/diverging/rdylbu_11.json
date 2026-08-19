@@ -1,0 +1,10 @@
+{
+  "id": "rdylbu_11",
+  "name": "ColorBrewer RdYlBu（11 级）",
+  "category": "diverging",
+  "tags": ["colorbrewer", "diverging", "scientific"],
+  "source": {"name": "ColorBrewer (Cynthia Brewer)", "license": "Apache-2.0", "url": "https://colorbrewer2.org/"},
+  "colors": ["#a50026", "#d73027", "#f46d43", "#fdae61", "#fee090", "#ffffbf", "#e0f3f8", "#abd9e9", "#74add1", "#4575b4", "#313695"],
+  "roles": {"primary": 1, "accent": 9, "support": 6},
+  "note": "红-黄-蓝。"
+}

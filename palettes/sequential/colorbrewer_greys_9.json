@@ -1,0 +1,32 @@
+{
+  "id": "colorbrewer_greys_9",
+  "name": "ColorBrewer Greys",
+  "category": "sequential",
+  "tags": [
+    "colorbrewer",
+    "sequential",
+    "scientific"
+  ],
+  "source": {
+    "name": "ColorBrewer (Cynthia Brewer)",
+    "license": "Apache-2.0",
+    "url": "https://colorbrewer2.org/"
+  },
+  "colors": [
+    "#ffffff",
+    "#f0f0f0",
+    "#d9d9d9",
+    "#bdbdbd",
+    "#969696",
+    "#737373",
+    "#525252",
+    "#252525",
+    "#000000"
+  ],
+  "roles": {
+    "primary": 4,
+    "accent": 8,
+    "support": 1
+  },
+  "note": "ColorBrewer 补全。"
+}

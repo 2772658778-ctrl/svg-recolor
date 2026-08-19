@@ -1,0 +1,32 @@
+{
+  "id": "colorbrewer_bugn_9",
+  "name": "ColorBrewer BuGn",
+  "category": "sequential",
+  "tags": [
+    "colorbrewer",
+    "sequential",
+    "scientific"
+  ],
+  "source": {
+    "name": "ColorBrewer (Cynthia Brewer)",
+    "license": "Apache-2.0",
+    "url": "https://colorbrewer2.org/"
+  },
+  "colors": [
+    "#f7fcfd",
+    "#e5f5f9",
+    "#ccece6",
+    "#99d8c9",
+    "#66c2a4",
+    "#41ae76",
+    "#238b45",
+    "#006d2c",
+    "#00441b"
+  ],
+  "roles": {
+    "primary": 4,
+    "accent": 8,
+    "support": 1
+  },
+  "note": "ColorBrewer 补全。"
+}

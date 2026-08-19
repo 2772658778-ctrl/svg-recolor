@@ -1,0 +1,35 @@
+{
+  "id": "tailwind_indigo",
+  "name": "Tailwind indigo",
+  "category": "ui_theme",
+  "tags": [
+    "tailwind",
+    "ramp",
+    "indigo",
+    "ui_theme"
+  ],
+  "source": {
+    "name": "Tailwind CSS v3.4",
+    "license": "MIT",
+    "url": "https://tailwindcss.com/docs/customizing-colors"
+  },
+  "colors": [
+    "#eef2ff",
+    "#e0e7ff",
+    "#c7d2fe",
+    "#a5b4fc",
+    "#818cf8",
+    "#6366f1",
+    "#4f46e5",
+    "#4338ca",
+    "#3730a3",
+    "#312e81",
+    "#1e1b4b"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "单色相 50-950 色阶。"
+}

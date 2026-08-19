@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_solar",
+  "name": "cmocean solar",
+  "category": "sequential",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "sequential"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#331418",
+    "#541e22",
+    "#732724",
+    "#8f341f",
+    "#a54a17",
+    "#b66413",
+    "#c47f15",
+    "#cf9b1d",
+    "#d8ba2a",
+    "#dedb3a",
+    "#e1fd4b"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "海洋学色图，通用性好。"
+}

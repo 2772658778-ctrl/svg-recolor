@@ -1,0 +1,35 @@
+{
+  "id": "crameri_tofino",
+  "name": "Crameri tofino",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#ded9ff",
+    "#98a8e1",
+    "#5777ba",
+    "#304a7b",
+    "#19253d",
+    "#0d1613",
+    "#18321a",
+    "#2b5b2f",
+    "#4a8d4b",
+    "#91be74",
+    "#dbe69b"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}

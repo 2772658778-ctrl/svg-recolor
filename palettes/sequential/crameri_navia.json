@@ -1,0 +1,35 @@
+{
+  "id": "crameri_navia",
+  "name": "Crameri navia",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#031327",
+    "#06315a",
+    "#105185",
+    "#236c91",
+    "#327c89",
+    "#418a80",
+    "#549b75",
+    "#70b369",
+    "#a7d278",
+    "#dde7ae",
+    "#fcf4d9"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}

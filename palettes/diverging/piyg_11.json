@@ -1,0 +1,10 @@
+{
+  "id": "piyg_11",
+  "name": "ColorBrewer PiYG（11 级）",
+  "category": "diverging",
+  "tags": ["colorbrewer", "diverging", "scientific"],
+  "source": {"name": "ColorBrewer (Cynthia Brewer)", "license": "Apache-2.0", "url": "https://colorbrewer2.org/"},
+  "colors": ["#8e0152", "#c51b7d", "#de77ae", "#f1b6da", "#fde0ef", "#f7f7f7", "#e6f5d0", "#b8e186", "#7fbc41", "#4d9221", "#276419"],
+  "roles": {"primary": 1, "accent": 9, "support": 6},
+  "note": "品红-白-绿。"
+}

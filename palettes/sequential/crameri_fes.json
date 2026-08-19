@@ -1,0 +1,35 @@
+{
+  "id": "crameri_fes",
+  "name": "Crameri fes",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#0d0d0d",
+    "#3c3c3c",
+    "#646464",
+    "#888888",
+    "#b7b7b7",
+    "#024026",
+    "#4d5923",
+    "#88682e",
+    "#be905f",
+    "#d6c8b4",
+    "#ededfc"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}

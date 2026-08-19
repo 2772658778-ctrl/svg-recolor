@@ -1,0 +1,10 @@
+{
+  "id": "royal",
+  "name": "皇家（Violet → Magenta）",
+  "category": "duotone",
+  "tags": ["duotone", "violet", "magenta"],
+  "source": {"name": "自研（Tailwind 色阶取材）", "license": "MIT", "url": ""},
+  "colors": ["#7c3aed", "#be185d", "#ddd6fe"],
+  "roles": {"primary": 0, "accent": 1, "support": 2},
+  "note": "紫罗兰主色 + 品红强调。"
+}

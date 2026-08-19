@@ -1,0 +1,13 @@
+{
+  "id": "duotone",
+  "name": "双色调",
+  "category": "style",
+  "apply": {
+    "roles": {"primary": "primary", "accent": "accent"},
+    "opacity": {},
+    "background": null,
+    "gradient": false,
+    "stroke_width": null
+  },
+  "note": "主线条=主色；小核心/点状元素=强调色。科研图最常用。"
+}

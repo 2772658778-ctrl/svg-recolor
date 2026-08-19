@@ -1,0 +1,35 @@
+{
+  "id": "crameri_berlin",
+  "name": "Crameri berlin",
+  "category": "diverging",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "diverging"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#9eb0ff",
+    "#60a5df",
+    "#3280a6",
+    "#20526a",
+    "#112732",
+    "#190c09",
+    "#371000",
+    "#5f1f0a",
+    "#964a36",
+    "#ca7b71",
+    "#ffadad"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 10,
+    "support": 5
+  },
+  "note": "科研色图，CVD 友好。"
+}

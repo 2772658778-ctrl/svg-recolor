@@ -1,0 +1,10 @@
+{
+  "id": "inferno_10",
+  "name": "Inferno 顺序色图（10 级）",
+  "category": "sequential",
+  "tags": ["perceptually-uniform", "sequential", "matplotlib"],
+  "source": {"name": "Matplotlib inferno", "license": "BSD-3-Clause", "url": "https://matplotlib.org/stable/users/explain/colors/colormaps.html"},
+  "colors": ["#000004", "#160b39", "#420a68", "#6a176e", "#932667", "#bc3754", "#dd513a", "#f37819", "#fca50a", "#f6d746"],
+  "roles": {"primary": 3, "accent": 8, "support": 1},
+  "note": "黑紫到亮黄。"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "crameri_managua",
+  "name": "Crameri managua",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#ffcf67",
+    "#df9d56",
+    "#c17449",
+    "#a0513e",
+    "#773339",
+    "#572949",
+    "#4c3d73",
+    "#5161a1",
+    "#5f89c3",
+    "#6fb6e2",
+    "#81e7ff"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}

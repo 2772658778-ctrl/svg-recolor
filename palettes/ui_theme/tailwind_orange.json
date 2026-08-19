@@ -1,0 +1,35 @@
+{
+  "id": "tailwind_orange",
+  "name": "Tailwind orange",
+  "category": "ui_theme",
+  "tags": [
+    "tailwind",
+    "ramp",
+    "orange",
+    "ui_theme"
+  ],
+  "source": {
+    "name": "Tailwind CSS v3.4",
+    "license": "MIT",
+    "url": "https://tailwindcss.com/docs/customizing-colors"
+  },
+  "colors": [
+    "#fff7ed",
+    "#ffedd5",
+    "#fed7aa",
+    "#fdba74",
+    "#fb923c",
+    "#f97316",
+    "#ea580c",
+    "#c2410c",
+    "#9a3412",
+    "#7c2d12",
+    "#431407"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "单色相 50-950 色阶。"
+}

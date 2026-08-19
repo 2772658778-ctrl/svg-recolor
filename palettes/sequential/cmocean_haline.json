@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_haline",
+  "name": "cmocean haline",
+  "category": "sequential",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "sequential"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#2a186c",
+    "#2829a3",
+    "#0d4e96",
+    "#18668c",
+    "#2d7c89",
+    "#3c9387",
+    "#4aaa81",
+    "#63c072",
+    "#94d35d",
+    "#d0e06d",
+    "#fdef9a"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "海洋学色图，通用性好。"
+}

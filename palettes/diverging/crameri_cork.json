@@ -1,0 +1,35 @@
+{
+  "id": "crameri_cork",
+  "name": "Crameri cork",
+  "category": "diverging",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "diverging"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#2c194c",
+    "#284275",
+    "#3d6b98",
+    "#6f92b3",
+    "#adc1d4",
+    "#e6edec",
+    "#b7cfb7",
+    "#7ba77a",
+    "#438142",
+    "#195615",
+    "#0f2903"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 10,
+    "support": 5
+  },
+  "note": "科研色图，CVD 友好。"
+}

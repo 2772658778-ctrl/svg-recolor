@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_oxy",
+  "name": "cmocean oxy",
+  "category": "sequential",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "sequential"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#400505",
+    "#6b060f",
+    "#504f4f",
+    "#676666",
+    "#81807f",
+    "#9b9a9a",
+    "#b7b7b6",
+    "#d4d4d3",
+    "#f8fe69",
+    "#e7d72c",
+    "#ddaf19"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "海洋学色图，通用性好。"
+}

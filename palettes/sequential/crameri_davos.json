@@ -1,0 +1,35 @@
+{
+  "id": "crameri_davos",
+  "name": "Crameri davos",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#00054a",
+    "#102a6f",
+    "#234a8c",
+    "#3a679b",
+    "#547d9c",
+    "#6c8e93",
+    "#849e89",
+    "#a4b68a",
+    "#d4dba8",
+    "#f5f5d7",
+    "#fefefe"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}

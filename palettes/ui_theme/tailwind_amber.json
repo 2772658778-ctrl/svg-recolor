@@ -1,0 +1,35 @@
+{
+  "id": "tailwind_amber",
+  "name": "Tailwind amber",
+  "category": "ui_theme",
+  "tags": [
+    "tailwind",
+    "ramp",
+    "amber",
+    "ui_theme"
+  ],
+  "source": {
+    "name": "Tailwind CSS v3.4",
+    "license": "MIT",
+    "url": "https://tailwindcss.com/docs/customizing-colors"
+  },
+  "colors": [
+    "#fffbeb",
+    "#fef3c7",
+    "#fde68a",
+    "#fcd34d",
+    "#fbbf24",
+    "#f59e0b",
+    "#d97706",
+    "#b45309",
+    "#92400e",
+    "#78350f",
+    "#451a03"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "单色相 50-950 色阶。"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "forest",
+  "name": "森林（Green → Pine）",
+  "category": "duotone",
+  "tags": ["duotone", "nature", "green"],
+  "source": {"name": "自研（Tailwind 色阶取材）", "license": "MIT", "url": ""},
+  "colors": ["#16a34a", "#14532d", "#bbf7d0"],
+  "roles": {"primary": 0, "accent": 1, "support": 2},
+  "note": "绿色主色 + 深松绿强调。"
+}

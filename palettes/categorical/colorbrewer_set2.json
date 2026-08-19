@@ -1,0 +1,10 @@
+{
+  "id": "colorbrewer_set2",
+  "name": "ColorBrewer Set2（定性）",
+  "category": "categorical",
+  "tags": ["scientific", "categorical", "colorbrewer"],
+  "source": {"name": "ColorBrewer (Cynthia Brewer)", "license": "Apache-2.0", "url": "https://colorbrewer2.org/"},
+  "colors": ["#66C2A5", "#FC8D62", "#8DA0CB", "#E78AC3", "#A6D854", "#FFD92F", "#E5C494", "#B3B3B3"],
+  "roles": {"primary": 2, "accent": 1, "support": 0},
+  "note": "Set2 8 色，柔和定性色。"
+}

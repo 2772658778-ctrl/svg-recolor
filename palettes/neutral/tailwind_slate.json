@@ -1,0 +1,10 @@
+{
+  "id": "tailwind_slate",
+  "name": "Tailwind Slate 灰阶（50-950）",
+  "category": "neutral",
+  "tags": ["neutral", "gray", "ramp", "tailwind"],
+  "source": {"name": "Tailwind CSS v4", "license": "MIT", "url": "https://github.com/tailwindlabs/tailwindcss"},
+  "colors": ["#f8fafc", "#f1f5f9", "#e2e8f0", "#cbd5e1", "#94a3b8", "#64748b", "#475569", "#334155", "#1e293b", "#0f172a", "#020617"],
+  "roles": {"primary": 8, "accent": 6, "support": 3},
+  "note": "冷灰阶，科研图正文/坐标轴常用。"
+}

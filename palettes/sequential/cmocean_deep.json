@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_deep",
+  "name": "cmocean deep",
+  "category": "sequential",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "sequential"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#fdfecc",
+    "#c8eab1",
+    "#92d8a4",
+    "#66c2a4",
+    "#52a8a3",
+    "#488e9e",
+    "#407598",
+    "#3e5b93",
+    "#41407b",
+    "#382d51",
+    "#281a2c"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "海洋学色图，通用性好。"
+}

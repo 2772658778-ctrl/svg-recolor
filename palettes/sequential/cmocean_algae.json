@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_algae",
+  "name": "cmocean algae",
+  "category": "sequential",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "sequential"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#d7f9d0",
+    "#b6e2ab",
+    "#96cd8a",
+    "#72bb6c",
+    "#44a855",
+    "#129450",
+    "#097d4b",
+    "#156741",
+    "#1a5034",
+    "#183a25",
+    "#122414"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "海洋学色图，通用性好。"
+}

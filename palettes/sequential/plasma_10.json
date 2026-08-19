@@ -1,0 +1,10 @@
+{
+  "id": "plasma_10",
+  "name": "Plasma 顺序色图（10 级）",
+  "category": "sequential",
+  "tags": ["perceptually-uniform", "sequential", "matplotlib"],
+  "source": {"name": "Matplotlib plasma", "license": "BSD-3-Clause", "url": "https://matplotlib.org/stable/users/explain/colors/colormaps.html"},
+  "colors": ["#0d0887", "#46039f", "#7201a8", "#9c179e", "#bd3786", "#d8576b", "#ed7953", "#fb9f3a", "#fdca26", "#f0f921"],
+  "roles": {"primary": 3, "accent": 8, "support": 1},
+  "note": "深紫到亮黄。"
+}

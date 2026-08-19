@@ -1,0 +1,10 @@
+{
+  "id": "ylgnbu_9",
+  "name": "ColorBrewer YlGnBu（9 级）",
+  "category": "sequential",
+  "tags": ["colorbrewer", "sequential", "scientific"],
+  "source": {"name": "ColorBrewer (Cynthia Brewer)", "license": "Apache-2.0", "url": "https://colorbrewer2.org/"},
+  "colors": ["#ffffd9", "#edf8b1", "#c7e9b4", "#7fcdbb", "#41b6c4", "#1d91c0", "#225ea8", "#253494", "#081d58"],
+  "roles": {"primary": 5, "accent": 8, "support": 2},
+  "note": "经典黄-绿-蓝顺序色。"
+}

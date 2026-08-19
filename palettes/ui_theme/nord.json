@@ -1,0 +1,10 @@
+{
+  "id": "nord",
+  "name": "Nord",
+  "category": "ui_theme",
+  "tags": ["ui", "scandinavian", "cold", "nord"],
+  "source": {"name": "Nord", "license": "MIT", "url": "https://github.com/arcticicestudio/nord"},
+  "colors": ["#81a1c1", "#88c0d0", "#5e81ac", "#bf616a", "#d08770", "#ebcb8b", "#a3be8c", "#b48ead", "#d8dee9", "#4c566a"],
+  "roles": {"primary": 0, "accent": 5, "support": 8},
+  "note": "冷调北极风格。"
+}

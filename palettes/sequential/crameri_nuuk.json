@@ -1,0 +1,35 @@
+{
+  "id": "crameri_nuuk",
+  "name": "Crameri nuuk",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#05598c",
+    "#276184",
+    "#436e82",
+    "#638089",
+    "#859493",
+    "#a1a698",
+    "#b2b293",
+    "#bdbd8a",
+    "#caca83",
+    "#e4e391",
+    "#fefeb2"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}

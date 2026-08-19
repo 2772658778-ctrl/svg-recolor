@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_tempo",
+  "name": "cmocean tempo",
+  "category": "sequential",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "sequential"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#fff6f4",
+    "#dbdecf",
+    "#b6cbaf",
+    "#8db997",
+    "#5da786",
+    "#2a937f",
+    "#117d79",
+    "#18656f",
+    "#1c4d61",
+    "#1a3651",
+    "#151d44"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "海洋学色图，通用性好。"
+}

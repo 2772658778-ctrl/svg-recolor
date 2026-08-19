@@ -1,0 +1,10 @@
+{
+  "id": "sunset",
+  "name": "日落（Orange → Rust）",
+  "category": "duotone",
+  "tags": ["duotone", "warm", "sunset"],
+  "source": {"name": "自研（Tailwind 色阶取材）", "license": "MIT", "url": ""},
+  "colors": ["#f97316", "#7c2d12", "#fed7aa"],
+  "roles": {"primary": 0, "accent": 1, "support": 2},
+  "note": "橙色主色 + 锈红强调。"
+}

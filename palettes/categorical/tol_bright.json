@@ -1,0 +1,10 @@
+{
+  "id": "tol_bright",
+  "name": "Paul Tol Bright（CVD 安全）",
+  "category": "categorical",
+  "tags": ["colorblind-safe", "scientific", "categorical"],
+  "source": {"name": "Paul Tol, Colour Schemes", "license": "PD（免费使用）", "url": "https://personal.sron.nl/~pault/"},
+  "colors": ["#4477AA", "#EE6677", "#228833", "#CCBB44", "#66CCEE", "#AA3377", "#BBBBBB"],
+  "roles": {"primary": 0, "accent": 1, "support": 3},
+  "note": "Tol Bright 7 色。"
+}

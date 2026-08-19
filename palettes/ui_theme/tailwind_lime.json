@@ -1,0 +1,35 @@
+{
+  "id": "tailwind_lime",
+  "name": "Tailwind lime",
+  "category": "ui_theme",
+  "tags": [
+    "tailwind",
+    "ramp",
+    "lime",
+    "ui_theme"
+  ],
+  "source": {
+    "name": "Tailwind CSS v3.4",
+    "license": "MIT",
+    "url": "https://tailwindcss.com/docs/customizing-colors"
+  },
+  "colors": [
+    "#f7fee7",
+    "#ecfccb",
+    "#d9f99d",
+    "#bef264",
+    "#a3e635",
+    "#84cc16",
+    "#65a30d",
+    "#4d7c0f",
+    "#3f6212",
+    "#365314",
+    "#1a2e05"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "单色相 50-950 色阶。"
+}

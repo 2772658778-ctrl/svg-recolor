@@ -1,0 +1,10 @@
+{
+  "id": "tailwind_stone",
+  "name": "Tailwind Stone 暖灰阶（50-950）",
+  "category": "neutral",
+  "tags": ["neutral", "warm-gray", "ramp", "tailwind"],
+  "source": {"name": "Tailwind CSS v4", "license": "MIT", "url": "https://github.com/tailwindlabs/tailwindcss"},
+  "colors": ["#fafaf9", "#f5f5f4", "#e7e5e4", "#d6d3d1", "#a8a29e", "#78716c", "#57534e", "#44403c", "#292524", "#1c1917", "#0c0a09"],
+  "roles": {"primary": 8, "accent": 6, "support": 3},
+  "note": "暖灰阶，适合偏暖色调论文。"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_delta",
+  "name": "cmocean delta",
+  "category": "diverging",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "diverging"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#112040",
+    "#234397",
+    "#2378a3",
+    "#4ea8af",
+    "#accec6",
+    "#fffdcd",
+    "#d8c55f",
+    "#8ea20b",
+    "#32801f",
+    "#10542c",
+    "#172313"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 10,
+    "support": 5
+  },
+  "note": "海洋学色图，通用性好。"
+}

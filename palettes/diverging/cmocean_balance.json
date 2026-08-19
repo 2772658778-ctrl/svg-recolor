@@ -1,0 +1,34 @@
+{
+  "id": "cmocean_balance",
+  "name": "cmocean balance",
+  "category": "diverging",
+  "tags": [
+    "cmocean",
+    "perceptually-uniform",
+    "diverging"
+  ],
+  "source": {
+    "name": "Kristen Thyng, cmocean",
+    "license": "MIT",
+    "url": "https://matplotlib.org/cmocean/"
+  },
+  "colors": [
+    "#181c43",
+    "#293f9a",
+    "#1670bc",
+    "#599cbb",
+    "#aac2cb",
+    "#f1eceb",
+    "#dcb2a4",
+    "#ca795d",
+    "#b33826",
+    "#7e0e29",
+    "#3c0912"
+  ],
+  "roles": {
+    "primary": 0,
+    "accent": 10,
+    "support": 5
+  },
+  "note": "海洋学色图，通用性好。"
+}

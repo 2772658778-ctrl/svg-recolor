@@ -1,0 +1,35 @@
+{
+  "id": "crameri_lipari",
+  "name": "Crameri lipari",
+  "category": "sequential",
+  "tags": [
+    "crameri",
+    "perceptually-uniform",
+    "colorblind-safe",
+    "sequential"
+  ],
+  "source": {
+    "name": "Fabio Crameri, Scientific Colour Maps",
+    "license": "MIT",
+    "url": "https://www.fabiocrameri.ch/colourmaps/"
+  },
+  "colors": [
+    "#031326",
+    "#103557",
+    "#3c5478",
+    "#615e78",
+    "#806070",
+    "#a56267",
+    "#cf695e",
+    "#e98768",
+    "#e6aa7f",
+    "#eacda5",
+    "#fdf5da"
+  ],
+  "roles": {
+    "primary": 5,
+    "accent": 10,
+    "support": 2
+  },
+  "note": "科研色图，CVD 友好。"
+}
